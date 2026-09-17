@@ -4,9 +4,9 @@ This repository is the website for the four-day **NSC-R Data Carpentry Workshop*
 
 # Previous editions
 
-- 2025, Nov 17-25
-- 2024, Oct 7-16
-- 2023, Oct 12-26
+- 2025, Nov 17-25 (Instructor: Asier Moneva; Helpers: Wim Bernasco, Danielle Stibbe)
+- 2024, Oct 7-16 (Instructor: Asier Moneva; Helpers: Ida Adamse, Wim Bernasco, Harrie Jonkman, Danielle Stibbe)
+- 2023, Oct 12-26 (Instructors: Samuel Langton, Asier Moneva; Helpers: Wim Bernasco, Harrie Jonkman)
 
 # The Carpentries Workshop Template
 
