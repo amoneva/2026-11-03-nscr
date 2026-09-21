@@ -260,9 +260,8 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 <p id="who-can-attend">
     <strong>Who can attend?</strong>
-    This workshop is limited to 20 participants. Members of <a href="https://www.linkedin.com/groups/12939373/">'PhDs in Criminology'</a> and affiliates of <a href="https://nscr.nl/">NSCR</a>, <a href="https://vu.nl/">Vrije Universiteit Amsterdam</a>, and <a href="https://www.dehaagsehogeschool.nl/onderzoek/lectoraten/cybercrime-and-cybersecurity">Lectorate CCCS of THUAS</a> will be given priority, in order of registration. If seats are still available, they will be open to the public on a first-come, first-served basis until full capacity is reached. <i>Participants will receive a certificate of attendance as well as 1.5 ECs (European Credits) upon successful completion of the course.</i>
+    This workshop is limited to 20 participants. Affiliates of <a href="https://nscr.nl/">NSCR</a>, the Departments of Criminology and Criminal Law at <a href="https://vu.nl/en/about-vu/faculties/faculty-of-law/departments/department-criminal-law-and-criminology">Vrije Universiteit Amsterdam</a> and <a href="https://www.universiteitleiden.nl/en/law/institute-of-criminal-law-and-criminology">Leiden University</a>, <a href="https://www.dehaagsehogeschool.nl/onderzoek/lectoraten/cybercrime-and-cybersecurity">Lectorate Cybercrime and Cyber Security of The Hague University of Applied Sciences</a>, and members of <a href="https://www.linkedin.com/groups/12939373/">'PhDs in Criminology'</a> will be given priority, in order of registration. If seats are still available, they will be open to the public on a first-come, first-served basis until full capacity is reached. <i>Participants will receive a certificate of attendance as well as 1.5 ECs (European Credits) upon successful completion of the course.</i>
 </p>
-
 
 <hr/>
 
