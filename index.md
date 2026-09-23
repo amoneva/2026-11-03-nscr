@@ -268,6 +268,7 @@ Edit the text to match who can attend the workshop. For instance:
     <strong>Registration:</strong>
     You can register for the workshop <a href="https://www.eventbrite.nl/e/4th-nsc-r-data-carpentry-workshop-tickets-2001872731228">here</a>. 
 </p>
+{% endcomment %}
 
 <p class="text-center">
   <a href="[https://goo.gl/forms/KoUfO53Za3apOuOK2](https://www.eventbrite.nl/e/4th-nsc-r-data-carpentry-workshop-tickets-2001872731228)">
@@ -279,19 +280,21 @@ Edit the text to match who can attend the workshop. For instance:
 
 {% comment%}
 CODE OF CONDUCT
-{% endcomment %}
 <h2 id="code-of-conduct">Code of Conduct</h2>
 {% endcomment %}
 
 <p>
-Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
+Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed. Report a Code of Conduct incident <a href= "https://goo.gl/forms/KoUfO53Za3apOuOK2">here</a>.
 </p>
 
+{% comment%}
 <p class="text-center">
   <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">
     <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
   </a>
 </p>
+{% endcomment %}
+
 <hr/>
 
 
