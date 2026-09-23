@@ -17,7 +17,7 @@ instructor: ["Asier Moneva"] # boxed, comma-separated list of instructors' names
 helper: ["Joeri Loggen", "Judith Nijensteen", "Hannah Kool"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["amoneva@nscr.nl"]   # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite: "2001872731228"                  # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+# eventbrite: "2001872731228"                  # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -261,6 +261,11 @@ Edit the text to match who can attend the workshop. For instance:
 <p id="who-can-attend">
     <strong>Who can attend?</strong>
     This workshop is limited to 20 participants. Affiliates of <a href="https://nscr.nl/">NSCR</a>, the Departments of Criminology and Criminal Law at <a href="https://vu.nl/en/about-vu/faculties/faculty-of-law/departments/department-criminal-law-and-criminology">Vrije Universiteit Amsterdam</a> and <a href="https://www.universiteitleiden.nl/en/law/institute-of-criminal-law-and-criminology">Leiden University</a>, <a href="https://www.dehaagsehogeschool.nl/onderzoek/lectoraten/cybercrime-and-cybersecurity">Lectorate Cybercrime and Cyber Security of The Hague University of Applied Sciences</a>, and members of <a href="https://www.linkedin.com/groups/12939373/">'PhDs in Criminology'</a> will be given priority, in order of registration. If seats are still available, they will be open to the public on a first-come, first-served basis until full capacity is reached. <i>Participants will receive a certificate of attendance as well as 1.5 ECs (European Credits) upon successful completion of the course.</i>
+</p>
+
+<p id="registration">
+    <strong>Registration:</strong>
+    You can register for the workshop <a href="https://www.eventbrite.nl/e/4th-nsc-r-data-carpentry-workshop-tickets-2001872731228">here</a>. 
 </p>
 
 <hr/>
