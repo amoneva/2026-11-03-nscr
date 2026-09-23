@@ -280,8 +280,8 @@ Edit the text to match who can attend the workshop. For instance:
 
 {% comment%}
 CODE OF CONDUCT
-<h2 id="code-of-conduct">Code of Conduct</h2>
 {% endcomment %}
+<h2 id="code-of-conduct">Code of Conduct</h2>
 
 <p>
 Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed. Report a Code of Conduct incident <a href= "https://goo.gl/forms/KoUfO53Za3apOuOK2">here</a>.
