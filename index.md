@@ -271,7 +271,7 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 
 <p class="text-center">
-  <a href="[https://goo.gl/forms/KoUfO53Za3apOuOK2](https://www.eventbrite.nl/e/4th-nsc-r-data-carpentry-workshop-tickets-2001872731228)">
+  <a href="https://www.eventbrite.nl/e/4th-nsc-r-data-carpentry-workshop-tickets-2001872731228">
     <button type="button" class="btn btn-info">Register for the workshop</button>
   </a>
 </p>
